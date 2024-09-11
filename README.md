@@ -1,2 +1,2 @@
-# learning-log
-Document my journey learning CS
+# First steps
+I will start this journey by learning C programming language!
