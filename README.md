@@ -5,3 +5,5 @@ I will start this journey by learning C programming language!
 - The MIT challenge
 - OSSU
 - Teach Yourself CS
+- George Hotz's Path
+- Roadmap.sh
