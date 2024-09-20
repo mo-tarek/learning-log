@@ -1,5 +1,3 @@
-Starting the "From Nand to Tetris" course is a great choice! Here’s a step-by-step approach to get you going:
-
 1. **Set Up Your Environment**:
    - Visit the official [Nand2Tetris website](https://www.nand2tetris.org/).
    - Download the necessary software and tools, including the Nand2Tetris software suite.
