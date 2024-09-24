@@ -11,7 +11,7 @@
 </ul>    
 
 
-# Order
+# Table of contents
 #### Fundamentals
 <ol>
     <li>Learn C</li>
