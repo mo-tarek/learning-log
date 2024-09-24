@@ -1,14 +1,15 @@
-# Journey of non-cs student 
-<p> I will start this journey by learning C programming language!</p>
-<p>My thoughts about learning: </p>
-<ul>
-    <li>If you want to learn something new, you should get your hands dirty with it.</li>
-    <li>Let's say you want to learn language like C++, you have the chance to learn it with its creator, you will not it without applying what you have learned</li>
-    <li>
-        I really like these quotes
-            <li>What I can't create I don't understand  -- Feynman</li>
-    </li>
-</ul>    
+# Journey of a Non-CS Student
+
+I am excited to embark on my journey to learn the C programming language!
+
+## Thoughts on Learning
+
+- To truly learn something new, one must engage with it actively.
+- While aiming to learn a language like C++, gaining a deep understanding necessitates practical application.
+- I resonate with the following quote:
+  > "What I can't create, I don't understand." — Richard Feynman
+
+I am ready to dive in, experiment, and grasp the concepts as I progress. I look forward to seeing where this journey takes me!
 
 
 # Table of contents
