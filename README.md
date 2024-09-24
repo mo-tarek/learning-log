@@ -2,7 +2,7 @@
 
 I am excited to embark on my journey to learn the C programming language!
 
-## Thoughts on Learning
+## Reflections on Learning
 
 - To truly learn something new, one must engage with it actively.
 - While aiming to learn a language like C++, gaining a deep understanding necessitates practical application.
