@@ -1,7 +1,3 @@
-# Journey of a Non-CS Student
-
-I am excited to embark on my journey to learn the C programming language!
-
 ## Reflections on Learning
 I really want to Integrate Mathematics with Computer Science to understand deeply how we can make use of this world.
 
