@@ -14,14 +14,33 @@ I am ready to dive in, experiment, and grasp the concepts as I progress. I look 
 
 # Table of contents
 - Programming
+  - Book: Structure and Interpolation of Computer Programs
+  - Brian Harvey's CS 61A
 - Computer architecture
+  - Book: Computer System's: A Programmer's Approach
+  - Video: Berkeley CS 61C
 - Algorithms and data structures
+  - Book: The Algorithm Design Manual
+  - Video: Steven Skiena's Lectures
 - Math for CS
+  - Book: Mathematics for Computer Science
+  - Video: Tom Lighton's 6.042J
 - Operating systems
+  - Book: Operating Systems: Three Easy Pieces
+  - Video: Berkeley CS 162
 - Computer Networking
+  - Book: Computer Networking: A Top-down Approach
+  - Video: Stanford CS 144
 - Databases
+  - Book: Readings in Database Systems
+  - Video: Joe Hellerstein’s Berkeley CS 186
 - Languages and compilers
+  - Book: Crafting Interpreters
+  - Video: Alex Aiken’s course on edX 
 - Distributed systems
+  - Book: Desigining Data-intensive Applications
+  - Video: MIT 6.824
+
 #### Fundamentals
 <ol>
     <li>Learn C</li>
