@@ -4,8 +4,8 @@ I am excited to embark on my journey to learn the C programming language!
 
 ## Reflections on Learning
 
-- To truly learn something new, one must engage with it actively.
-- While aiming to learn a language like C++, gaining a deep understanding necessitates practical application.
+- To truly learn something new, you must engage with it actively.
+- While aiming to learn a language like C, gaining a deep understanding necessitates practical application.
 - I resonate with the following quote:
   > "What I can't create, I don't understand." — Richard Feynman
 
@@ -13,6 +13,15 @@ I am ready to dive in, experiment, and grasp the concepts as I progress. I look 
 
 
 # Table of contents
+- Programming
+- Computer architecture
+- Algorithms and data structures
+- Math for CS
+- Operating systems
+- Computer Networking
+- Databases
+- Languages and compilers
+- Distributed systems
 #### Fundamentals
 <ol>
     <li>Learn C</li>
