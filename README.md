@@ -3,13 +3,7 @@
 I am excited to embark on my journey to learn the C programming language!
 
 ## Reflections on Learning
-
-- To truly learn something new, you must engage with it actively.
-- While aiming to learn a language like C, gaining a deep understanding necessitates practical application.
-- I resonate with the following quote:
-  > "What I can't create, I don't understand." — Richard Feynman
-
-I am ready to dive in, experiment, and grasp the concepts as I progress. I look forward to seeing where this journey takes me!
+I really want to Integrate Mathematics with Computer Science to understand deeply how we can make use of this world.
 
 
 # Table of contents
