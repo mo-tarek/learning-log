@@ -1,6 +1,11 @@
 ## Arabic Tutorials
+- Programming
 - Computer Architecture
+- Algorithms and data structures
+- Mathematics for Computer Science [Discrete Mathematics]
 - Operating Systems
   - Ahmed Sallam
-- Databases 
+- Computer Networking
+- Databases
+- Languages and Compilers
 - Distributed Systems
