@@ -1,11 +1,16 @@
 ## Arabic Tutorials
 - Programming
+  - C Programming
+    - Mohamed Yousef
 - Computer Architecture
+  - Ahmed Sallam
 - Algorithms and data structures
 - Mathematics for Computer Science [Discrete Mathematics]
 - Operating Systems
   - Ahmed Sallam
+  - SoftwareTube
 - Computer Networking
 - Databases
+  - Mohamed Eldesouky
 - Languages and Compilers
 - Distributed Systems
