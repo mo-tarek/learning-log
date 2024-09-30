@@ -2,9 +2,13 @@
 - Programming
   - C Programming
     - Mohamed Yousef
+  - C++ Programming
+    - **Programming 1:** C++
+    - **Programming 2:** OOP
 - Computer Architecture
   - Ahmed Sallam
 - Algorithms and data structures
+  - Dr. Walid Yousef
 - Mathematics for Computer Science [Discrete Mathematics]
 - Operating Systems
   - Ahmed Sallam
@@ -14,3 +18,10 @@
   - Mohamed Eldesouky
 - Languages and Compilers
 - Distributed Systems
+
+- Other
+  - Assembly
+    - Ahmed Sallam
+  - Electronics
+    - Dr. Hesham Omran
+    - Walid Essa
