@@ -51,3 +51,4 @@ I really want to Integrate Mathematics with Computer Science to understand deepl
 - Teach Yourself CS
 - George Hotz's Path
 - Roadmap.sh
+- [Dr. Mostafa Saad Ibrahim On Medium](https://mostafa-saad-ibrahim.medium.com/)
