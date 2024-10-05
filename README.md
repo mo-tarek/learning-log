@@ -31,19 +31,6 @@ I really want to Integrate Mathematics with Computer Science to understand deepl
   - Book: Desigining Data-intensive Applications
   - Video: MIT 6.824
 
-#### Fundamentals
-<ol>
-    <li>Learn C</li>
-    <li>C standard library</li>
-    <li>Data Structures in C</li>
-    <li>Implement C Standard library Functions</li>
-</ol>
-
-#### Problem Solving
-1. NeetCode Roadmap
-2. Assuit sheets
-3. Alazhar Sheets
-4. Dr. Mostafa Saad Sheets
     
 ## Resources
 - The MIT challenge
